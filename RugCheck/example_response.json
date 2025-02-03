@@ -1,0 +1,39 @@
+{
+    "code": 0,
+    "reason": "",
+    "message": "success",
+    "data": {
+      "address": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
+      "link": {
+        "address": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
+        "gmgn": "https://gmgn.ai/sol/token/6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
+        "geckoterminal": "https://www.geckoterminal.com/solana/tokens/6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
+        "twitter_username": "GetTrumpMemes",
+        "website": "https://gettrumpmemes.com/",
+        "telegram": "https://t.me/isorui",
+        "bitbucket": "",
+        "discord": "",
+        "description": "E cash",
+        "facebook": "",
+        "github": "",
+        "instagram": "",
+        "linkedin": "",
+        "medium": "",
+        "reddit": "",
+        "tiktok": "",
+        "youtube": "",
+        "verify_status": 1
+      },
+      "rug": {
+        "address": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
+        "rug_ratio": "0",
+        "holder_rugged_num": 0,
+        "holder_token_num": 0,
+        "rugged_tokens": null
+      },
+      "vote": {
+        "like": 0,
+        "unlike": 0
+      }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "code": 0,
+    "reason": "",
+    "message": "success",
+    "data": {
+      "recommend_slippage": "5",
+      "has_tax": false,
+      "display_slippage": "2.50",
+      "volatility": 3
+    }
+}
+  

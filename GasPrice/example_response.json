@@ -1,0 +1,26 @@
+{
+    "code": 0,
+    "reason": "",
+    "message": "success",
+    "data": {
+      "last_block": 1,
+      "high": "0.01",
+      "average": "0.005",
+      "low": "0.001",
+      "suggest_base_fee": "1",
+      "high_prio_fee": "1",
+      "average_prio_fee": "1",
+      "low_prio_fee": "1",
+      "high_prio_fee_mixed": "0.01",    
+      "average_prio_fee_mixed": "0,005",
+      "low_prio_fee_mixed": "0.001",    
+      "native_token_usd_price": 193.61, 
+      "eth_usd_price": 193.61,
+      "high_estimate_time": 2,
+      "average_estimate_time": 4,       
+      "low_estimate_time": 10,
+      "high_orign": "0.01",
+      "average_orign": "0.005",
+      "low_orign": "0.001"
+    }
+}

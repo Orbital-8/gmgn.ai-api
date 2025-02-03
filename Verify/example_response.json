@@ -1,0 +1,21 @@
+{
+    "code": 0,
+    "reason": "",
+    "message": "success",
+    "data": {
+      "list": [
+        {
+          "transaction_id": "e6064ea0-3ac9-4876-898c-6a262d7af0e2",
+          "apply_type": "comm_lead",
+          "status": "approved",
+          "website": "https://gettrumpmemes.com/",
+          "twitter_username": "GetTrumpMemes",
+          "telegram": "",
+          "logo": "https://gmgn.ai/defi/images/tokenmedia/b71639ceb0f9226c0f98a06dfa0d260c_128x128.jpg",
+          "background_url": "https://gmgn.ai/defi/images/tokenmedia/5df630d77cb84f28b6fe08530d381fd4_450x150.jpg",
+          "description": "The Official team on  Trump Meme",
+          "explanation": ""
+        }
+      ]
+    }
+}
